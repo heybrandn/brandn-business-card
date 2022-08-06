@@ -26,3 +26,20 @@ body {
     color: pink;
 }
 
+.header {
+	color: #80475E;
+	text-decoration: none;
+}
+.bbody {
+	display: flex;
+	justify-content: center;
+}
+.files {
+	display: flex;
+	justify-content: space-around;
+}
+
+.files1 {
+	height: 600px;
+	width: 600px;
+}
